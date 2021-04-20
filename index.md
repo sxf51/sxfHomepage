@@ -1,4 +1,4 @@
-## 孙秀夫的Github主页
+## fuckyou ygm bitch
 
 [LDAVisResult](https://sxf51.github.io/sxfHomepage/lda.html) 
 
@@ -30,4 +30,6 @@
 ====================分为21类======================
 困惑度： 1618.7148775465498
 ```
+
+
 
